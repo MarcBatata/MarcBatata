@@ -105,6 +105,7 @@ Estudante de Engenharia Elétrica, apaixonado por tecnologia e sempre em busca d
 
 ### 🤖 Estatísticas
 
+<!--
 <p>
   <img 
     align="left" 
@@ -121,7 +122,11 @@ Estudante de Engenharia Elétrica, apaixonado por tecnologia e sempre em busca d
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcBatata&theme=vue-dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
-</p>
+</p> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcBatata&show_icons=true&theme=vue-dark&locale=pt-br)](https://github.com/MarcBatata/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcBatata&theme=vue-dark&custom_title=Tecnologias&langs_count=10&layout=compact)](https://github.com/MarcBatata/github-readme-stats)
 
 <!-- ![Snake animation](https://github.com/MarcBatata/MarcBatata/blob/output/github-contribution-grid-snake.svg) -->
 
