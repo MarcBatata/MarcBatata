@@ -4,7 +4,7 @@
 
 Estudante de Engenharia Elétrica, apaixonado por tecnologia e sempre em busca de novos aprendizados. Programador por hobby, gosto de explorar ferramentas e linguagens que me ajudam a resolver problemas e entender melhor o mundo ao meu redor. Interesso-me por áreas como automação, controle e desenvolvimento de software. Aqui compartilho alguns projetos e experimentos que refletem minha jornada de estudos e curiosidade.
 
-<a href="https://github.com/MarcBatata?tab=followers">
+<!-- <a href="https://github.com/MarcBatata?tab=followers">
 <a href="https://github.com/MarcBatata?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,7 +19,7 @@ Estudante de Engenharia Elétrica, apaixonado por tecnologia e sempre em busca d
             src="https://custom-icon-badges.demolab.com/github/followers/MarcBatata?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
