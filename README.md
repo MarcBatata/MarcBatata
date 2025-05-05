@@ -83,7 +83,7 @@ Estudante de Engenharia Elétrica, apaixonado por tecnologia e sempre em busca d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
-<!-- <img 
+ <img 
     align="left" 
     alt="Matlab" 
     title="Matlab"
@@ -91,7 +91,7 @@ Estudante de Engenharia Elétrica, apaixonado por tecnologia e sempre em busca d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="R" 
     title="R"
